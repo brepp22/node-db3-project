@@ -123,7 +123,7 @@ router.post('/', validateScheme, (req, res, next) => {
     },
     {
       "step_id": 17,
-      "step_number": 2,
+      "step_number": 2, 
       "instructions": "and yet more questing",
       "scheme_name": "Find the Holy Grail"
     }
